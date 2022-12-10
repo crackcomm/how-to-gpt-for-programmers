@@ -8,6 +8,21 @@ The language model used in this repository is a large, [pre-trained model](https
 
 However, it is important to note that the language model is not able to browse the internet or access any external resources. It is limited to the knowledge it has been trained on, and as a result, the generated code may not always be functional. It is important to keep this in mind when using the language model and not expect it to always provide fully functional code.
 
+### Communication
+
+Here are some guidelines to help improve communication with a language model and ask for assistance.
+
+1. Clearly state the problem or question.
+2. Clearly describe the inputs and outputs of your desired solution or answer.
+3. Provide relevant information, such as error messages or code snippets.
+4. Consider providing an example or scenario.
+5. Consider providing your own thoughts or ideas on potential solutions.
+6. Use proper formatting and punctuation.
+7. Be specific and avoid using overly general language.
+8. Avoid using jargon or technical terms.
+9. Avoid using vague or ambiguous language.
+10. Be respectful and open to feedback.
+
 ## Using the Generated Code
 
 The generated code can be useful as a starting point for understanding how to implement certain ideas, but it is not always guaranteed to be functional. It is recommended to use the output as documentation and organize it into sections and sub-sections for easy reference. This can help you quickly access the information you need when working on your own projects.
