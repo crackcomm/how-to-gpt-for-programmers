@@ -12,16 +12,16 @@ However, it is important to note that the language model is not able to browse t
 
 Here are some guidelines to help improve communication with a language model and ask for assistance.
 
-1. Clearly state the problem or question.
+1. Clearly state the problem or question you want to explore.
 2. Clearly describe the inputs and outputs of your desired solution or answer.
-3. Provide relevant information, such as error messages or code snippets.
-4. Consider providing an example or scenario.
-5. Consider providing your own thoughts or ideas on potential solutions.
-6. Use proper formatting and punctuation.
-7. Be specific and avoid using overly general language.
-8. Avoid using jargon or technical terms.
-9. Avoid using vague or ambiguous language.
-10. Be respectful and open to feedback.
+3. Provide relevant information, such as code snippets or examples.
+4. Consider providing an example or scenario to help the language model understand your specific situation.
+5. Consider providing your own thoughts or ideas on potential solutions, as this can help guide the language model's response.
+6. Use proper formatting and punctuation to make your question or request easy to understand.
+7. Be specific and avoid using overly general language, as this can make it difficult for the language model to provide a useful response.
+8. Avoid using jargon or technical terms that the language model may not understand.
+9. Avoid using vague or ambiguous language, as this can also make it difficult for the language model to provide a useful response.
+10. Be respectful and open to feedback from the language model. It is a powerful tool, but it is not perfect and may not always provide the exact response you are looking for.
 
 ## Using the Generated Code
 
