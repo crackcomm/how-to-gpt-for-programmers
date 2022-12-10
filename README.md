@@ -19,7 +19,3 @@ Additionally, storing the output in a Git repository allows for tracking of chan
 The language model is a useful tool for exploring ideas and understanding how certain tools should be used. For example, if you are working on a data analysis project and want to understand the use of indicators such as mean, mode, median, and max/min, the language model can provide examples and explanations of how these tools can be used.
 
 It is also recommended to use the language model to improve existing code or strategies. For example, if you have a code snippet that you would like to improve, you can paste it into the language model and ask it to provide suggestions for improvement. This can help you quickly identify areas for improvement and take your code to the next level.
-
-## Welcome Contributions
-
-As a community-driven project, we welcome contributions to this document. If you have your own examples or experiences using the language model, please feel free to share them by submitting a pull request. Your contributions can help improve this document and provide valuable insights for others looking to use the language model in their own projects. Thank you for your support and we look forward to your contributions.
